@@ -2,5 +2,5 @@
 ----------------------------------------------------------------------------------------
 Hi, this is my first discord bot on C# 
 I made this bot for our private Discord Server
-I hope this codes are will be helpful
+I hope this codes will be helpful
 Note: I made this with DSharpPlus ====> https://github.com/DSharpPlus/DSharpPlus
