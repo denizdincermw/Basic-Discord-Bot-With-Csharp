@@ -23,7 +23,7 @@ namespace Discord_Botu
 
             discord = new DiscordClient(new DiscordConfiguration
             {
-                Token = "Your Token",
+                Token = "OTA1MTA5ODQyMjI4ODA1Njgy.YYFTOg.qIaVu6paBNuC1B1oog1PGEv8j10",
                 TokenType = TokenType.Bot
             });
 
