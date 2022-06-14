@@ -23,7 +23,7 @@ namespace Discord_Botu
 
             discord = new DiscordClient(new DiscordConfiguration
             {
-                Token = "OTA1MTA5ODQyMjI4ODA1Njgy.YYFTOg.qIaVu6paBNuC1B1oog1PGEv8j10",
+                Token = "your.bot.token",
                 TokenType = TokenType.Bot
             });
 
@@ -34,9 +34,9 @@ namespace Discord_Botu
                 {
                      
                     // This block of code responds to what you write
-                    if (e.Message.Content.ToLower() == "ben gidiyom")
+                    if (e.Message.Content.ToLower() == "I'm going to bed")
                     {
-                        e.Message.RespondAsync("İyi Akşamlar");
+                        e.Message.RespondAsync("Good Night");
                     }
                 }
 
